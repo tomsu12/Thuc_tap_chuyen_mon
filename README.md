@@ -1,13 +1,13 @@
 <h1 align="center">
-  Traffic flow prediction using LSTM!
+  Phân tích, xử lý và dự đoán lưu lượng giao thông dựa trên bộ dữ liệu trực tuyến
 </h1>
 <br/>
 
 
-<p> Traffic flow prediction (TFP) means predicting the volume and density of traffic flow, usually to control vehicle movement, reduce traffic jams, and create the optimal (least-time or energy-consuming) route. With the recent advancement in Artificial intelligence, Machine learning (ML), Deep learning (DL), and Big data, research in the field of predicting traffic flow has been expanded extensively.</p>
-<p> TFP is the key component of Intelligent Transport Systems (ITS) and can assist ITS to forecast traffic flow. Large cities have exceedingly difficult traffic regulations. many countries have adopted ITS to reduce the costs associated with traffic congestion. This study reviews the application of artificial neural network (ANN), ML, DL and other techniques and models for TFP. Finally, we will propose our own predictive model using DL, train and test it, analyze the accuracy and compare the accuracy of our model with other models.</p>
-<p> Comparing with conventional ML methods, DL models have the advantages such as simplifying data preprocessing procedures and outperforming other ML methods in terms of accuracy. Therefore, data-driven traffic flow prediction due to the availability of massive traffic data and DL schemes due to data preprocess procedures have received extensive attention recently in TFP.</p>
-<p> Furthermore, In recent years there has been a vast increase in available data with the advancement of smart cities. This modernization can have a favorable impact on transportation networks in the area of ITS, reducing travel times, boosting productivity, and minimizing the environmental impact of vehicles. ML and DL technologies are fast-growing domains for predicting traffic flow. Traffic signals, accidents, weather conditions, and road repairs are the primary causes of traffic. Since real-time traffic data are largely produced exponentially, big data principles must be used to improve data transportation. This fact motivated us to to predict the volume of traffic flow between Minneapolis and St. Paul at a specific point in Minnesota. Our aim is to build a multi-step Recurrent Nural Network (RNN) with Long Short Term Memory (LSTM) model that makes a single prediction point of the traffic volume 2 hours into the future, given the previous 6-hour window.</p>
+<p> Dự đoán lưu lượng giao thông (TFP) có nghĩa là dự đoán khối lượng và mật độ của lưu lượng giao thông, thường là để kiểm soát chuyển động của phương tiện, giảm ùn tắc giao thông và tạo tuyến đường tối ưu (ít tốn thời gian hoặc năng lượng nhất). Với những tiến bộ gần đây trong Trí tuệ nhân tạo, Học máy (ML), Học sâu (DL) và Dữ liệu lớn, nghiên cứu trong lĩnh vực dự đoán lưu lượng giao thông đã được mở rộng một cách rộng rãi.</p>
+<p> TFP là thành phần chính của Hệ thống giao thông thông minh (ITS) và có thể hỗ trợ ITS dự báo lưu lượng giao thông. Các thành phố lớn có quy định giao thông cực kỳ khó khăn. nhiều quốc gia đã áp dụng ITS để giảm chi phí liên quan đến tắc nghẽn giao thông. Nghiên cứu này xem xét ứng dụng của mạng nơ ron nhân tạo (ANN), ML, DL và các kỹ thuật, mô hình khác cho TFP. Cuối cùng, chúng tôi sẽ đề xuất mô hình dự đoán của riêng mình bằng DL, huấn luyện và kiểm tra mô hình đó, phân tích độ chính xác và so sánh độ chính xác của mô hình của chúng tôi với các mô hình khác.</p>
+<p>So với các phương pháp ML thông thường, các mô hình DL có những ưu điểm như đơn giản hóa quy trình tiền xử lý dữ liệu và vượt trội so với các phương pháp ML khác về độ chính xác. Do đó, dự đoán luồng lưu lượng dựa trên dữ liệu do có sẵn dữ liệu lưu lượng lớn và các sơ đồ DL do quy trình tiền xử lý dữ liệu đã nhận được sự quan tâm rộng rãi gần đây trong TFP.</p>
+<p> Hơn nữa, trong những năm gần đây, dữ liệu sẵn có đã tăng lên rất nhiều cùng với sự phát triển của các thành phố thông minh. Quá trình hiện đại hóa này có thể có tác động tích cực đến mạng lưới giao thông trong lĩnh vực ITS, giảm thời gian đi lại, tăng năng suất và giảm thiểu tác động môi trường của các phương tiện. Các công nghệ ML và DL là các lĩnh vực phát triển nhanh để dự đoán lưu lượng truy cập. Tín hiệu giao thông, tai nạn, điều kiện thời tiết và sửa chữa đường là những nguyên nhân chính của giao thông. Vì dữ liệu lưu lượng truy cập thời gian thực phần lớn được tạo ra theo cấp số nhân, nên các nguyên tắc dữ liệu lớn phải được sử dụng để cải thiện việc truyền dữ liệu. Thực tế này thúc đẩy chúng tôi dự đoán lưu lượng giao thông giữa Minneapolis và St. Paul tại một điểm cụ thể ở Minnesota. Mục tiêu của chúng tôi là xây dựng một mô hình Mạng Nural Định kỳ (RNN) gồm nhiều bước với mô hình Bộ nhớ Dài hạn Ngắn hạn (LSTM) tạo ra một điểm dự đoán duy nhất về lưu lượng truy cập trong 2 giờ tới trong tương lai, dựa trên khoảng thời gian 6 giờ trước đó.</p>
 
 
 ## 
@@ -24,3 +24,6 @@
     <img src="images/6.PNG" width="100%" height="100%">  
     <img src="images/7.PNG" width="100%" height="100%"> 
   </a>
+<p>Cảm ơn mọi người đã ghé thăm</p>
+<p> TRẦN THỊ MINH ÁNH</p>
+<P> CÔNG NGHỆ THÔNG TIN K 61</P>
