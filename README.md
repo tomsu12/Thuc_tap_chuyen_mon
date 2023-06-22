@@ -4,6 +4,10 @@
 <h1>
   Hướng dẫn chạy code
 </h1>
+<p>Chạy lệnh bên dưới đây để tải toàn bộ code về máy</p>
+```sh
+git clone https://github.com/tomsu12/Traffic_flow_prediction.git
+```
 
 <br/>
 
