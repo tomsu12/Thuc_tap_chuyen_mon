@@ -24,6 +24,8 @@ cd Traffic_prediction1
 
 <p>Tiếp theo bạn run từng dòng code  </p>
 
+<h1>Mô Hình </h1>
+
 <br/>
 
 
