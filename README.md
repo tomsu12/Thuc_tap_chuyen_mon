@@ -1,6 +1,12 @@
 <h1 align="center">
   Phân tích, xử lý và dự đoán lưu lượng giao thông dựa trên bộ dữ liệu trực tuyến
 </h1>
+<h1>Yêu cầu </h1>
+<p>
+Python 3.10.9
+Ubuntu 22.04.2 LTS
+andaco
+</p>
 <h1>
   Hướng dẫn chạy code
 </h1>
@@ -9,10 +15,11 @@
 ```sh
 git clone https://github.com/tomsu12/Traffic_flow_prediction.git
 ```
-<p> di chuyển đến thư mục mình cần làm việc</p>
+<p> Di chuyển đến thư mục mình cần làm việc</p>
 ```sh
 cd Traffic_flow_prediction
 ```
+<p>Tiếp theo bạn run từng dòng code  </p>
 
 <br/>
 
