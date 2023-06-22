@@ -1,7 +1,7 @@
 <h1 align="center">
   Phân tích, xử lý và dự đoán lưu lượng giao thông dựa trên bộ dữ liệu trực tuyến
 </h1>
-<h1 align="center">
+<h1>
   Hướng dẫn chạy code
 </h1>
 
