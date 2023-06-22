@@ -3,9 +3,9 @@
 </h1>
 <h1>Yêu cầu </h1>
 <p>
-Python 3.10.9
-Ubuntu 22.04.2 LTS
-andaco
+Python 3.10.9</p>
+<p>
+Ubuntu 22.04.2 
 </p>
 <h1>
   Hướng dẫn chạy code
