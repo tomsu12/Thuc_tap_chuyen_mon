@@ -15,10 +15,13 @@ andaco
 ```sh
 git clone https://github.com/tomsu12/Traffic_flow_prediction.git
 ```
+
 <p> Di chuyển đến thư mục mình cần làm việc</p>
+
 ```sh
 cd Traffic_prediction1
 ```
+
 <p>Tiếp theo bạn run từng dòng code  </p>
 
 <br/>
