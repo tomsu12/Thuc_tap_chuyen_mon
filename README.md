@@ -8,7 +8,7 @@ Python 3.10.9</p>
 Ubuntu 22.04.2 
 </p>
 <h1>
-  Hướng dẫn chạy code
+  Hướng dẫn chạy chương trình
 </h1>
 <p>Chạy lệnh bên dưới đây để tải toàn bộ code về máy</p>
 
